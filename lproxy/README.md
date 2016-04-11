@@ -3,7 +3,7 @@
 1. Get
 
 	```shell
-	$ git clone -b docker-dev https://github.com/DD-L/lproxy-docker.git lproxy-docker
+	$ git clone  https://github.com/DD-L/lproxy-docker.git lproxy-docker
 	$ cd lproxy-docker/lproxy
 	```
 
