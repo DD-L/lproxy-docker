@@ -11,7 +11,7 @@
 set -x
 set -e
 
-LPROXY_DEV_IMAGE=daocloud.io/deel/lproxy-dev:docker-dev-5cadd70
+LPROXY_DEV_IMAGE=daocloud.io/deel/lproxy-dev:latest
 
 sudo docker run -d --name lproxy_dev_temp -i $LPROXY_DEV_IMAGE
 sudo docker exec -i lproxy_dev_temp make init
