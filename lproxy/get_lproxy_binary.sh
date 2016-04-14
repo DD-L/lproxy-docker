@@ -1,6 +1,6 @@
 #!/bin/bash
 #########################################################################
-# File Name:    create_lproxy_container.sh
+# File Name:    get_lproxy_binary.sh
 # Author:       D_L
 # mail:         deel@d-l.top
 # Created Time: 2016/4/9 9:20:10
